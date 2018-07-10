@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.confluence" version="4.4.4" name="Confluence" provider-name="Jezz_X, Team Kodi">
+<addon id="skin.liverpoolfc" version="1.0.0" name="Liverpool FC" provider-name="Noah Smyth">
 	<requires>
 		<import addon="xbmc.gui" version="5.13.0"/>
 	</requires>
@@ -17,20 +17,20 @@
 		<summary lang="da_DK">Confluence-tema af Jezz_X. (Kodis standardtema)</summary>
 		<summary lang="de_DE">Confluence Skin von Jezz_X. (Standard-Skin von Kodi)</summary>
 		<summary lang="el_GR">Το κέλυφος Confluence από τον Jezz_X (προεπιλεγμένο κέλυφος του Kodi).</summary>
-		<summary lang="en_AU">Confluence skin by Jezz_X. (Kodi's default skin)</summary>
-		<summary lang="en_GB">Confluence skin by Jezz_X.</summary>
-		<summary lang="en_NZ">Confluence skin by Jezz_X. (Kodi's default skin)</summary>
-		<summary lang="en_US">Confluence skin by Jezz_X. (Kodi's default skin)</summary>
-		<summary lang="es_AR">Skin Confluence por Jezz_X.</summary>
-		<summary lang="es_ES">Skin Confluence por Jezz_X.</summary>
-		<summary lang="es_MX">Skin confluende por Jezz_X. (skin por defecto de Kodi)</summary>
+		<summary lang="en_AU">Liverpool Football Club unofficial skin.</summary>
+		<summary lang="en_GB">Liverpool Football Club unofficial skin.</summary>
+		<summary lang="en_NZ">Liverpool Football Club unofficial skin.</summary>
+		<summary lang="en_US">Liverpool Football Club unofficial skin.</summary>
+		<summary lang="es_AR">Piel no oficial del Liverpool Football Club.</summary>
+		<summary lang="es_ES">Piel no oficial del Liverpool Football Club.</summary>
+		<summary lang="es_MX">Piel no oficial del Liverpool Football Club.</summary>
 		<summary lang="et_EE">Confluence rüü autorilt Jezz_X.</summary>
 		<summary lang="eu_ES">Confluence azala Jezz_X-ek egina.</summary>
 		<summary lang="fa_IR">پوسته Confluence تهیه شده بوسیله Jezz_X. (پوسته پیش فرض Kodi) </summary>
 		<summary lang="fi_FI">Confluence-ulkoasu. Tekijä Jezz_X.</summary>
 		<summary lang="fo_FO">Confluence útsjónd av Jezz_X. (Kodi's vanliga útsjónd)</summary>
 		<summary lang="fr_CA">Habillage Confluence par Jezz_X.</summary>
-		<summary lang="fr_FR">Confluence par Jezz_X. (Habillage d'origine de Kodi)</summary>
+		<summary lang="fr_FR">Liverpool Football Club peau non officielle.</summary>
 		<summary lang="gl_ES">Pel Confluence por Jezz_Z. (Pel predefinida do Kodi)</summary>
 		<summary lang="he_IL">המעטפת Confluence של Jezz_X. (ברירת המחדל של Kodi)</summary>
 		<summary lang="hr_HR">Confluence presvlaka autora Jezz_X. (uobičajena Kodi presvlaka)</summary>
