@@ -56,7 +56,7 @@
 					<align>right</align>
 					<aligny>center</aligny>
 					<font>font13</font>
-					<textcolor>blue</textcolor>
+					<textcolor>lfc_red</textcolor>
 				</control>
 				<control type="label">
 					<description>Type Value</description>
@@ -80,7 +80,7 @@
 					<align>right</align>
 					<aligny>center</aligny>
 					<font>font13</font>
-					<textcolor>blue</textcolor>
+					<textcolor>lfc_red</textcolor>
 				</control>
 				<control type="label">
 					<description>Author Value</description>
@@ -104,7 +104,7 @@
 					<align>right</align>
 					<aligny>center</aligny>
 					<font>font13</font>
-					<textcolor>blue</textcolor>
+					<textcolor>lfc_red</textcolor>
 				</control>
 				<control type="label">
 					<description>Version Value</description>
@@ -128,7 +128,7 @@
 					<align>right</align>
 					<aligny>center</aligny>
 					<font>font13</font>
-					<textcolor>blue</textcolor>
+					<textcolor>lfc_red</textcolor>
 				</control>
 				<control type="fadelabel">
 					<description>Summary Value</description>
@@ -153,7 +153,7 @@
 					<align>right</align>
 					<aligny>center</aligny>
 					<font>font13</font>
-					<textcolor>blue</textcolor>
+					<textcolor>lfc_red</textcolor>
 				</control>
 				<control type="fadelabel">
 					<description>News Value</description>
@@ -185,7 +185,7 @@
 					<align>left</align>
 					<aligny>center</aligny>
 					<font>font13</font>
-					<textcolor>blue</textcolor>
+					<textcolor>lfc_red</textcolor>
 				</control>
 				<control type="group">
 					<visible>!String.IsEmpty(ListItem.AddonDisclaimer)</visible>
@@ -195,7 +195,7 @@
 						<top>170</top>
 						<width>300</width>
 						<height>25</height>
-						<label>$INFO[Container(400).CurrentPage, $LOCALIZE[31024] [COLOR=blue]([/COLOR]]$INFO[Container(400).NumPages,/,[COLOR=blue])[/COLOR]]</label>
+						<label>$INFO[Container(400).CurrentPage, $LOCALIZE[31024] [COLOR=lfc_red]([/COLOR]]$INFO[Container(400).NumPages,/,[COLOR=lfc_red])[/COLOR]]</label>
 						<align>right</align>
 						<aligny>center</aligny>
 						<font>font12</font>
@@ -261,7 +261,7 @@
 						<top>170</top>
 						<width>300</width>
 						<height>25</height>
-						<label>$INFO[Container(401).CurrentPage, $LOCALIZE[31024] [COLOR=blue]([/COLOR]]$INFO[Container(401).NumPages,/,[COLOR=blue])[/COLOR]]</label>
+						<label>$INFO[Container(401).CurrentPage, $LOCALIZE[31024] [COLOR=lfc_red]([/COLOR]]$INFO[Container(401).NumPages,/,[COLOR=lfc_red])[/COLOR]]</label>
 						<align>right</align>
 						<aligny>center</aligny>
 						<font>font12</font>
