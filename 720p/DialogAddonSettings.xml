@@ -141,7 +141,7 @@
 				<font>font13_title</font>
 				<align>left</align>
 				<aligny>center</aligny>
-				<textcolor>blue</textcolor>
+				<textcolor>lfc_red</textcolor>
 				<shadowcolor>black</shadowcolor>
 			</control>
 			<control type="grouplist" id="9001">
