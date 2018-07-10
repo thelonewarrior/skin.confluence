@@ -122,7 +122,7 @@
 			<width>1140</width>
 			<height>500</height>
 			<control type="image">
-				<description>blue border</description>
+				<description>lfc_red border</description>
 				<posx>0</posx>
 				<posy>0</posy>
 				<width>1140</width>
@@ -159,7 +159,7 @@
 				<width>570</width>
 				<height>360</height>
 				<control type="label">
-					<description>blue available modes</description>
+					<description>lfc_red available modes</description>
 					<left>25</left>
 					<top>2</top>
 					<width>550</width>
@@ -168,7 +168,7 @@
 					<label>$LOCALIZE[15050] ($INFO[Container(20).NumItems])</label>
 					<align>center</align>
 					<aligny>center</aligny>
-					<textcolor>blue</textcolor>
+					<textcolor>lfc_red</textcolor>
 					<shadowcolor>black</shadowcolor>
 				</control>
 				<control type="image">
@@ -329,7 +329,7 @@
 				<width>570</width>
 				<height>360</height>
 				<control type="label">
-					<description>blue active modes</description>
+					<description>lfc_red active modes</description>
 					<left>10</left>
 					<top>2</top>
 					<width>550</width>
@@ -338,7 +338,7 @@
 					<label>$LOCALIZE[15051] ($INFO[Container(21).NumItems])</label>
 					<align>center</align>
 					<aligny>center</aligny>
-					<textcolor>blue</textcolor>
+					<textcolor>lfc_red</textcolor>
 					<shadowcolor>black</shadowcolor>
 				</control>
 				<control type="image">
