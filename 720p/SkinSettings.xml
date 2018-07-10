@@ -204,7 +204,7 @@
 						<height>45</height>
 						<font>font13_title</font>
 						<label>31106</label>
-						<textcolor>blue</textcolor>
+						<textcolor>lfc_red</textcolor>
 						<shadowcolor>black</shadowcolor>
 						<align>left</align>
 						<aligny>center</aligny>
@@ -303,7 +303,7 @@
 						<height>45</height>
 						<font>font13_title</font>
 						<label>31101</label>
-						<textcolor>blue</textcolor>
+						<textcolor>lfc_red</textcolor>
 						<shadowcolor>black</shadowcolor>
 						<align>left</align>
 						<aligny>center</aligny>
@@ -379,7 +379,7 @@
 						<height>45</height>
 						<font>font13_title</font>
 						<label>31108</label>
-						<textcolor>blue</textcolor>
+						<textcolor>lfc_red</textcolor>
 						<shadowcolor>black</shadowcolor>
 						<align>left</align>
 						<aligny>center</aligny>
@@ -511,7 +511,7 @@
 						<height>45</height>
 						<font>font13_title</font>
 						<label>31106</label>
-						<textcolor>blue</textcolor>
+						<textcolor>lfc_red</textcolor>
 						<shadowcolor>black</shadowcolor>
 						<align>left</align>
 						<aligny>center</aligny>
@@ -569,7 +569,7 @@
 						<height>45</height>
 						<font>font13_title</font>
 						<label>31102</label>
-						<textcolor>blue</textcolor>
+						<textcolor>lfc_red</textcolor>
 						<shadowcolor>black</shadowcolor>
 						<align>left</align>
 						<aligny>center</aligny>
@@ -618,7 +618,7 @@
 							<height>45</height>
 							<font>font13_title</font>
 							<label>31140</label>
-							<textcolor>blue</textcolor>
+							<textcolor>lfc_red</textcolor>
 							<shadowcolor>black</shadowcolor>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -652,7 +652,7 @@
 							<height>45</height>
 							<font>font13_title</font>
 							<label>31134</label>
-							<textcolor>blue</textcolor>
+							<textcolor>lfc_red</textcolor>
 							<shadowcolor>black</shadowcolor>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -722,7 +722,7 @@
 							<height>45</height>
 							<font>font13_title</font>
 							<label>31135</label>
-							<textcolor>blue</textcolor>
+							<textcolor>lfc_red</textcolor>
 							<shadowcolor>black</shadowcolor>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -792,7 +792,7 @@
 							<height>45</height>
 							<font>font13_title</font>
 							<label>31136</label>
-							<textcolor>blue</textcolor>
+							<textcolor>lfc_red</textcolor>
 							<shadowcolor>black</shadowcolor>
 							<align>left</align>
 							<aligny>center</aligny>
@@ -862,7 +862,7 @@
 							<height>45</height>
 							<font>font13_title</font>
 							<label>31118</label>
-							<textcolor>blue</textcolor>
+							<textcolor>lfc_red</textcolor>
 							<shadowcolor>black</shadowcolor>
 							<align>left</align>
 							<aligny>center</aligny>
